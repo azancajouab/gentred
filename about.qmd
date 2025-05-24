@@ -1,0 +1,51 @@
+---
+title: "About the project"
+format:
+  html:
+    toc: true
+    css: styles.css
+---
+
+# Project summary
+
+# Urban gentrification and educational inequalities
+
+Among the major social changes of the 21st century are the processes of urban transformation and socio-spatial configuration. Globalization has accelerated processes of fragmentation and social polarization, with particularly strong effects in urban settings. The cities of the 21st century are the sites where the contradictions of globalization—between growth and inequality—are most sharply concentrated. They have become the operational centers of increasingly interconnected economic relations and are practically the only visibly localized part of a highly delocalized economy, more virtual than physical in its projection. Globalization and polarization have occurred simultaneously, even in the cities of countries with strong welfare systems. The rise in social inequality and the limitations of governments in addressing it have contributed to worsening residential segregation in major cities.
+
+The increase in economic inequality and residential segregation in global cities has coexisted with processes of urban gentrification in several areas. Gentrification refers to the process by which socioeconomically disadvantaged urban neighbourhoods undergo reinvestment and reversal, often involving the arrival of middle- and upper-middle-class populations. This frequently leads to increases in housing and service costs, potentially resulting in the displacement and replacement of existing residents. The social consequences of neighbourhood transformation in terms of economic inequality, social and community cohesion, and the consumption patterns of different social groups are a growing area of academic and political interest. There has been considerable debate on whether the effects of gentrification are positive or negative in terms of social opportunities, urban development, and social cohesion. However, the educational field has been relatively under-researched—especially in Spain. Available studies on the educational implications of gentrification have shown that increased social heterogeneity does not necessarily lead to improved academic outcomes or reduced school segregation. On the contrary, they often identify adverse or unintended effects in terms of educational equity. In such neighbourhoods, these consequences seem linked to the activation of specific socio-spatial strategies within educational markets by these "new residents," which can lead to school exclusion, "school gentrification," and other practices aimed at the social reproduction of these groups. More research is needed to understand the impact of these urban transformations on educational inequality dynamics.
+
+# The GENTRED research project
+
+GENTRED is a research project whose main goal is to evaluate the consequences of urban gentrification processes on educational inequalities. The study focuses on the city of Barcelona, an urban context where gentrification has gained increasing prominence in recent years, analysing the effects of transformations since the early 2010s.
+
+## Research Objectives
+
+The project has four main objectives:
+
+**1.** To analyse changes in educational supply and demand in urban areas that have undergone gentrification.
+
+**2.** To evaluate the impact of these processes on school segregation and inequalities among different student groups.
+
+**3.** To study school choice rationales and participation strategies used by families in schools located in neighbourhoods with varying levels of gentrification.
+
+**4.** To identify the logics of action of teaching staff and school responses in the most "gentrified" schools.
+
+## Methodology
+
+This is an interdisciplinary proposal, both analytically and methodologically, combining fields such as urban studies, sociology of education, and geography. The research uses a wide range of quantitative and qualitative techniques of various social science disciplines.
+
+The study uses different territorial units of analysis—from the city as a whole to educational catchment areas and neighbourhoods. The quantitative phase includes the following methods and techniques:
+
+-   **Statistical analysis** of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.
+
+-   **Socio-spatial analysis techniques using GIS (Geographic Information Systems)** to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.
+
+-   **Quasi-experimental evaluation methods**, which help estimate changes in impact dimensions caused by gentrification.
+
+In the qualitative phase, GENTRED adopts an “embedded single case study” strategy—that is, the study of a single case through multiple units of analysis: families and school actors in neighbourhoods with divergent gentrification processes. This approach is combined with “critical case sampling” to help capture the underlying mechanisms of the phenomenon. The qualitative instruments include:
+
+-   **Document analysis**: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.
+
+-   **Interviews**: semi-structured interviews with headteachers, teachers, and families at selected schools.
+
+-   **Participant observation** during open days events, meetings between teachers and families, and other school life spaces.

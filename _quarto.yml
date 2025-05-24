@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gentred"
+  cookie-consent: false
+  navbar:
+    title: false
+    logo: images/LOGO_GENTRED.png
+    logo-alt: "Gentred"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+  page-footer:
+    background: "#3E8B77"
+    center: '<div class="custom-footer-container">Gentred | Effects of gentrification on educational inequalities</div>'
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+redirects:
+  from: "http://desegpol.com"
+  to: "https://www.desegpol.com"

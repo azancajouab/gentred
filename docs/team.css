@@ -1,0 +1,28 @@
+/* team.css - Tint overlay for team.qmd images within team-member grid */
+/* Target the Quarto grid layout classes */
+.grid-container-1 .team-member {
+  position: relative;
+  display: inline-block;
+  /* Clip images to circle and hide overflow */
+  border-radius: 0%;
+  overflow: hidden;
+}
+
+.grid-container-1 .team-member img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.grid-container-1 .team-member::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* rgba(75,155,138,0.5) corresponds to #4B9B8A at 50% opacity */
+  background-color: rgba(75,155,138,0.5);
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
