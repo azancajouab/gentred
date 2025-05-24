@@ -1,0 +1,70 @@
+---
+title: "outputs"
+format: html
+css: styles.css
+toc: false
+---
+
+# Preliminary findings
+
+The next documents present the preliminary findings of the research project. These are based on the presentations we have made at different academic conferences, seminars and workshops.
+
+::::: grid-container
+::: team-member
+<img src="images/Strand1_Impact.png" width="400" height="300"/>
+
+<h5>[**Impact evaluation of the Barcelona’s Shock Plan**](files/Strand1_Impact.pdf)</h5>
+:::
+
+::: team-member
+<img src="images/Strand2_CMO.png" width="400" height="300"/>
+
+<h5>[**Realist evaluation of the Barcelona’s Shock Plan**](files/Strand2_CMO.pdf)</h5>
+:::
+
+```{=html}
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; /* Adjust gap for spacing between items */
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.team-member img {
+    border-radius: 0%;
+    border: 1px solid #419E9C; /* Replace #your-color-here with the desired color */
+    padding: 0px; /* Optional: space between image and border */
+}
+
+.team-member h3 {
+    margin: 10px 0 5px 0; /* Adds some space between the image and name */
+    text-align: center;
+}
+
+.team-member p {
+    margin: 0;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p a {
+    margin: 0 5px; /* Adds space between icons */
+    text-align: center;
+}
+</style>
+```
+:::::

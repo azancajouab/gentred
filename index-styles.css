@@ -1,0 +1,115 @@
+/* css styles */
+
+
+.navbar {
+    height: 100px;  /* Adjust this value to your desired navbar height */
+}
+
+.navbar-brand img {
+    max-height: 100%;  /* Ensure the logo fits within the new navbar height */
+    height: auto;
+}
+
+/* Change the background color of the navbar */
+.navbar {
+  background-color:  #ffffff;
+}
+
+/* Optionally, change the text color in the navbar */
+.navbar a {
+  color: #4B9B8A; /* White text */
+}
+
+/* Make navbar links bold */
+.navbar a {
+  font-weight: bold;
+}
+
+/* Hide page title */
+h1.title {
+  display: none;
+}
+
+/* Center navbar items */
+.navbar-nav {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* Optional: Ensure the logo is positioned properly */
+.navbar-brand {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Change font and size of navbar links */
+.navbar-nav a {
+  font-family: 'Montserrat', sans-serif;  /* Replace with the font you prefer */
+  font-size: 18px;  /* Adjust size */
+}
+
+/* Keyframes for the fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Apply the animation to the image */
+img.fade-in {
+  animation: fadeIn 3s ease-in-out;
+}
+
+/* Keyframes for the slide-in-from-bottom animation */
+@keyframes slideInFromBottom {
+  from {
+    transform: translateY(100%); /* Start from below */
+    opacity: 0; /* Hidden */
+  }
+  to {
+    transform: translateY(0); /* End at the original position */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+/* Apply the animation to all images EXCEPT images inside the navbar */
+body img:not(.navbar-brand img) {
+  animation: slideInFromBottom 2s ease-out;
+  opacity: 1; /* Ensures images don't remain invisible */
+}
+
+/* Apply the animation to all text elements EXCEPT navbar links */
+body h1, body h2, body h3, body h4, body p, body span, body div {
+  animation: slideInFromBottom 2s ease-out;
+  opacity: 1; /* Ensures text doesn't remain invisible */
+}
+
+/* Prevent the animation from affecting text inside the navbar */
+.navbar-nav .nav-link {
+  animation: none;
+  opacity: 1; /* Ensures navbar links are visible */
+}
+
+/* Target the navbar links */
+.navbar-nav .nav-link {
+  margin-right: 40px; /* Adjust this value to increase or decrease the spacing */
+}
+
+/* Regular links (default) */
+a {
+  color: #4B9B8A; /* Default color for links */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Navbar links (default) */
+.navbar-nav .nav-link {
+  color: #4B9B8A; /* Default color for navbar links */
+}
+
+.navbar-nav .nav-link.active {
+  color: #E17A3C; /* Replace this hex code with your desired color */
+}

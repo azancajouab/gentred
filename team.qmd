@@ -1,0 +1,186 @@
+---
+title: "Team"
+format: html
+toc: FALSE
+---
+
+<h1 style="color: #419E9C;">
+
+Research team
+
+</h1>
+
+::::: grid-container-1
+::: team-member
+<img src="team_photos/XB.jpg" alt="Xavier Bonal" width="150" height="150"/>
+
+[**Xavier Bonal (PI)**]{style="font-size: 22px;"}
+
+<p><a href="https://uab.academia.edu/AdrianZancajo" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/AdrianZancajo" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.nl/citations?hl=en&user=mJmENSwAAAAJ" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/AZ.jpeg" alt="Adrián Zancajo" width="150" height="150"/>
+
+[**Adrián Zancajo (Co-PI)**]{style="font-size: 22px;"}
+
+<p><a href="https://uab.academia.edu/AdrianZancajo" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/AdrianZancajo" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.nl/citations?hl=en&user=mJmENSwAAAAJ" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+```{=html}
+<style>
+.grid-container-1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.team-member img {
+    border-radius: 50%;
+}
+
+.team-member h3 {
+    margin: 10px 0 5px 0;
+    text-align: center;
+}
+
+.team-member p {
+    margin: 0;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p a {
+    margin: 0 5px;
+    text-align: center;
+}
+</style>
+```
+:::::
+
+::: {style="height: 50px;"}
+:::
+
+::::::::::: grid-container-2
+::: team-member
+<img src="team_photos/CB.jpeg" alt="Carlos Bueno" width="150" height="150"/>
+
+[**Carlos Bueno**]{style="font-size: 22px;"}
+
+<p><a href="https://independent.academia.edu/SheilaGonz%C3%A1lez5" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/Sheila-Gonzalez-Motos" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/GF.webp" alt="Gerard Ferrer" width="150" height="150"/>
+
+[**Gerard Ferrer**]{style="font-size: 22px;"}
+
+<p><a href="https://independent.academia.edu/SheilaGonz%C3%A1lez5" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/Sheila-Gonzalez-Motos" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/NG.png" alt="Nur García" width="150" height="150"/>
+
+[**Nur García**]{style="font-size: 22px;"}
+
+<p><a href="https://independent.academia.edu/SheilaGonz%C3%A1lez5" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/Sheila-Gonzalez-Motos" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/SG.jpeg" alt="Sheila González" width="150" height="150"/>
+
+[**Sheila González**]{style="font-size: 22px;"}
+
+<p><a href="https://independent.academia.edu/SheilaGonz%C3%A1lez5" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/Sheila-Gonzalez-Motos" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/AL.jpg" alt="Antonia Levantino" width="150" height="150"/>
+
+[**Antonina Levantino**]{style="font-size: 22px;"}
+
+<p><a href="https://ub.academia.edu/AntoninaLevatino" target="_blank" style="text-decoration: none;">{{< iconify simple-icons academia size=lg >}} </a> <a href="https://www.researchgate.net/profile/Antonina-Levatino" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.it/citations?user=1PzDB04AAAAJ&hl=it" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/PN.jpeg" alt="Pablo Neut" width="150" height="150"/>
+
+[**Pablo Neut**]{style="font-size: 22px;"}
+
+<p><a href="https://ub.academia.edu/AntoninaLevatino" target="_blank" style="text-decoration: none;">{{< iconify simple-icons academia size=lg >}} </a> <a href="https://www.researchgate.net/profile/Antonina-Levatino" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.it/citations?user=1PzDB04AAAAJ&hl=it" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/MP.jpg" alt="Marcel Pagès" width="150" height="150"/>
+
+[**Marcel Pagès**]{style="font-size: 22px;"}
+
+<p><a href="https://independent.academia.edu/MarcelPag%C3%A8s" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/Marcel-Pages" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com" target="_blank" style="text-decoration: none;">{{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+::: team-member
+<img src="team_photos/AT.webp" alt="Andreu Termes" width="150" height="150"/>
+
+[**Andreu Termes**]{style="font-size: 22px;"}
+
+<p><a href="https://uab.academia.edu/AndreuTermes" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
+:::
+
+```{=html}
+<style>
+.grid-container-2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+}
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.team-member img {
+    border-radius: 50%;
+}
+
+.team-member h3 {
+    margin: 10px 0 5px 0;
+    text-align: center;
+}
+
+.team-member p {
+    margin: 0;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p a {
+    margin: 0 5px;
+    text-align: center;
+}
+</style>
+```
+:::::::::::
